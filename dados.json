@@ -1,0 +1,98 @@
+[
+  {"nome":"Argissolo Acinzentado","hex":"#FDF1F0","tipo":"Solo","classe":"Argissolo","subclasse":"Acinzentado"},
+  {"nome":"Argissolo Amarelo","hex":"#F1CCC8","tipo":"Solo","classe":"Argissolo","subclasse":"Amarelo"},
+  {"nome":"Argissolo Bruno-Acinzentado","hex":"#FFC8FA","tipo":"Solo","classe":"Argissolo","subclasse":"Bruno-Acinzentado"},
+  {"nome":"Argissolo Vermelho","hex":"#F07F7F","tipo":"Solo","classe":"Argissolo","subclasse":"Vermelho"},
+  {"nome":"Argissolo Vermelho-Amarelo","hex":"#FFA77F","tipo":"Solo","classe":"Argissolo","subclasse":"Vermelho-Amarelo"},
+
+  {"nome":"Cambissolo Flúvico","hex":"#EBDBBF","tipo":"Solo","classe":"Cambissolo","subclasse":"Flúvico"},
+  {"nome":"Cambissolo Háplico","hex":"#D7C5A5","tipo":"Solo","classe":"Cambissolo","subclasse":"Háplico"},
+  {"nome":"Cambissolo Húmico","hex":"#CFB680","tipo":"Solo","classe":"Cambissolo","subclasse":"Húmico"},
+
+  {"nome":"Chernossolo Argilúvico","hex":"#9C4A4E","tipo":"Solo","classe":"Chernossolo","subclasse":"Argilúvico"},
+  {"nome":"Chernossolo Ebânico","hex":"#AA8686","tipo":"Solo","classe":"Chernossolo","subclasse":"Ebânico"},
+  {"nome":"Chernossolo Háplico","hex":"#9C5F5F","tipo":"Solo","classe":"Chernossolo","subclasse":"Háplico"},
+  {"nome":"Chernossolo Rêndzico","hex":"#8E6856","tipo":"Solo","classe":"Chernossolo","subclasse":"Rêndzico"},
+
+  {"nome":"Espodossolo Ferrihumilúvico","hex":"#B6BEC5","tipo":"Solo","classe":"Espodossolo","subclasse":"Ferrihumilúvico"},
+  {"nome":"Espodossolo Ferrilúvico","hex":"#CEBEC6","tipo":"Solo","classe":"Espodossolo","subclasse":"Ferrilúvico"},
+  {"nome":"Espodossolo Humilúvico","hex":"#C1BEC5","tipo":"Solo","classe":"Espodossolo","subclasse":"Humilúvico"},
+
+  {"nome":"Gleissolo Háplico","hex":"#B6D8FF","tipo":"Solo","classe":"Gleissolo","subclasse":"Háplico"},
+  {"nome":"Gleissolo Melânico","hex":"#78FCFA","tipo":"Solo","classe":"Gleissolo","subclasse":"Melânico"},
+  {"nome":"Gleissolo Sálico","hex":"#5EB4E6","tipo":"Solo","classe":"Gleissolo","subclasse":"Sálico"},
+  {"nome":"Gleissolo Tiomórfico","hex":"#6CA3CD","tipo":"Solo","classe":"Gleissolo","subclasse":"Tiomórfico"},
+
+  {"nome":"Latossolo Amarelo","hex":"#FECC5C","tipo":"Solo","classe":"Latossolo","subclasse":"Amarelo"},
+  {"nome":"Latossolo Bruno","hex":"#A87000","tipo":"Solo","classe":"Latossolo","subclasse":"Bruno"},
+  {"nome":"Latossolo Vermelho","hex":"#F4B980","tipo":"Solo","classe":"Latossolo","subclasse":"Vermelho"},
+  {"nome":"Latossolo Vermelho-Amarelo","hex":"#F7D1A6","tipo":"Solo","classe":"Latossolo","subclasse":"Vermelho-Amarelo"},
+
+  {"nome":"Luvissolo Crômico","hex":"#D49616","tipo":"Solo","classe":"Luvissolo","subclasse":"Crômico"},
+  {"nome":"Luvissolo Háplico","hex":"#D4B300","tipo":"Solo","classe":"Luvissolo","subclasse":"Háplico"},
+
+  {"nome":"Neossolo Flúvico","hex":"#EEEBDC","tipo":"Solo","classe":"Neossolo","subclasse":"Flúvico"},
+  {"nome":"Neossolo Litólico","hex":"#969595","tipo":"Solo","classe":"Neossolo","subclasse":"Litólico"},
+  {"nome":"Neossolo Quartzarênico","hex":"#FFFE73","tipo":"Solo","classe":"Neossolo","subclasse":"Quartzarênico"},
+  {"nome":"Neossolo Regolítico","hex":"#CFCECE","tipo":"Solo","classe":"Neossolo","subclasse":"Regolítico"},
+
+  {"nome":"Nitossolo Bruno","hex":"#68350A","tipo":"Solo","classe":"Nitossolo","subclasse":"Bruno"},
+  {"nome":"Nitossolo Háplico","hex":"#734C00","tipo":"Solo","classe":"Nitossolo","subclasse":"Háplico"},
+  {"nome":"Nitossolo Vermelho","hex":"#A83800","tipo":"Solo","classe":"Nitossolo","subclasse":"Vermelho"},
+
+  {"nome":"Organossolo Háplico","hex":"#A7B3D5","tipo":"Solo","classe":"Organossolo","subclasse":"Háplico"},
+  {"nome":"Organossolo Tiomórfico","hex":"#423096","tipo":"Solo","classe":"Organossolo","subclasse":"Tiomórfico"},
+
+  {"nome":"Planossolo Háplico","hex":"#B5D6AE","tipo":"Solo","classe":"Planossolo","subclasse":"Háplico"},
+  {"nome":"Planossolo Nátrico","hex":"#89CAC7","tipo":"Solo","classe":"Planossolo","subclasse":"Nátrico"},
+
+  {"nome":"Plintossolo Argilúvico","hex":"#EC87CB","tipo":"Solo","classe":"Plintossolo","subclasse":"Argilúvico"},
+  {"nome":"Plintossolo Háplico","hex":"#D6BAC9","tipo":"Solo","classe":"Plintossolo","subclasse":"Háplico"},
+  {"nome":"Plintossolo Pétrico","hex":"#ECACCB","tipo":"Solo","classe":"Plintossolo","subclasse":"Pétrico"},
+
+  {"nome":"Vertissolo Ebânico","hex":"#868F72","tipo":"Solo","classe":"Vertissolo","subclasse":"Ebânico"},
+  {"nome":"Vertissolo Háplico","hex":"#C0C091","tipo":"Solo","classe":"Vertissolo","subclasse":"Háplico"},
+  {"nome":"Vertissolo Hidromórfico","hex":"#9EAA85","tipo":"Solo","classe":"Vertissolo","subclasse":"Hidromórfico"},
+
+  {"nome":"Floresta Ombrófila Densa (Aluvial)","hex":"#A7FF00","tipo":"Vegetação","classe":"Floresta Ombrófila Densa","subclasse":"Aluvial"},
+  {"nome":"Floresta Ombrófila Densa (Terras Baixas)","hex":"#71FF00","tipo":"Vegetação","classe":"Floresta Ombrófila Densa","subclasse":"Terras Baixas"},
+  {"nome":"Floresta Ombrófila Densa (Submontana)","hex":"#00F600","tipo":"Vegetação","classe":"Floresta Ombrófila Densa","subclasse":"Submontana"},
+  {"nome":"Floresta Ombrófila Densa (Montana)","hex":"#00FF71","tipo":"Vegetação","classe":"Floresta Ombrófila Densa","subclasse":"Montana"},
+
+  {"nome":"Floresta Ombrófila Aberta (Aluvial)","hex":"#D6FFA7","tipo":"Vegetação","classe":"Floresta Ombrófila Aberta","subclasse":"Aluvial"},
+  {"nome":"Floresta Ombrófila Aberta (Terras Baixas)","hex":"#C0FFA7","tipo":"Vegetação","classe":"Floresta Ombrófila Aberta","subclasse":"Terras Baixas"},
+  {"nome":"Floresta Ombrófila Aberta (Submontana)","hex":"#A7FFA7","tipo":"Vegetação","classe":"Floresta Ombrófila Aberta","subclasse":"Submontana"},
+
+  {"nome":"Floresta Ombrófila Mista (Montana)","hex":"#9AD4E7","tipo":"Vegetação","classe":"Floresta Ombrófila Mista","subclasse":"Montana"},
+  {"nome":"Floresta Ombrófila Mista (Alto-Montana)","hex":"#9AC2E7","tipo":"Vegetação","classe":"Floresta Ombrófila Mista","subclasse":"Alto-Montana"},
+
+  {"nome":"Floresta Estacional Semidecidual (Terras Baixas)","hex":"#D4E69A","tipo":"Vegetação","classe":"Floresta Estacional Semidecidual","subclasse":"Terras Baixas"},
+  {"nome":"Floresta Estacional Semidecidual (Submontana)","hex":"#C2E69A","tipo":"Vegetação","classe":"Floresta Estacional Semidecidual","subclasse":"Submontana"},
+  {"nome":"Floresta Estacional Semidecidual (Montana)","hex":"#BECD89","tipo":"Vegetação","classe":"Floresta Estacional Semidecidual","subclasse":"Montana"},
+
+  {"nome":"Savana (Cerrado)","hex":"#FFECA7","tipo":"Vegetação","classe":"Savana","subclasse":"Geral"},
+  {"nome":"Savana Florestada (Cerradão)","hex":"#FFA7A7","tipo":"Vegetação","classe":"Savana","subclasse":"Florestada"},
+  {"nome":"Savana Arborizada","hex":"#FFC0A7","tipo":"Vegetação","classe":"Savana","subclasse":"Arborizada"},
+  {"nome":"Savana Parque","hex":"#FFD6A7","tipo":"Vegetação","classe":"Savana","subclasse":"Parque"},
+  {"nome":"Savana Gramíneo-Lenhosa","hex":"#FFECA7","tipo":"Vegetação","classe":"Savana","subclasse":"Gramíneo-Lenhosa"},
+
+  {"nome":"Savana Estépica","hex":"#F6F600","tipo":"Vegetação","classe":"Savana Estépica","subclasse":"Geral"},
+  {"nome":"Savana Estépica Florestada","hex":"#CDCD00","tipo":"Vegetação","classe":"Savana Estépica","subclasse":"Florestada"},
+  {"nome":"Savana Estépica Arborizada","hex":"#E7C200","tipo":"Vegetação","classe":"Savana Estépica","subclasse":"Arborizada"},
+  {"nome":"Savana Estépica Parque","hex":"#FFD600","tipo":"Vegetação","classe":"Savana Estépica","subclasse":"Parque"},
+  {"nome":"Savana Estépica Gramíneo-Lenhosa","hex":"#F6F600","tipo":"Vegetação","classe":"Savana Estépica","subclasse":"Gramíneo-Lenhosa"},
+
+  {"nome":"Estepe","hex":"#E7AD9A","tipo":"Vegetação","classe":"Estepe","subclasse":"Geral"},
+  {"nome":"Estepe Arborizada","hex":"#E7D49A","tipo":"Vegetação","classe":"Estepe","subclasse":"Arborizada"},
+  {"nome":"Estepe Parque","hex":"#E7C29A","tipo":"Vegetação","classe":"Estepe","subclasse":"Parque"},
+  {"nome":"Estepe Gramíneo-Lenhosa","hex":"#E7AD9A","tipo":"Vegetação","classe":"Estepe","subclasse":"Gramíneo-Lenhosa"},
+
+  {"nome":"Formações Pioneiras (Restinga)","hex":"#009AE7","tipo":"Vegetação","classe":"Formações Pioneiras","subclasse":"Marinha"},
+  {"nome":"Formações Pioneiras (Manguezal)","hex":"#00D6FF","tipo":"Vegetação","classe":"Formações Pioneiras","subclasse":"Flúvio-marinha"},
+  {"nome":"Formações Pioneiras (Fluvial/Lacustre)","hex":"#A7D6FF","tipo":"Vegetação","classe":"Formações Pioneiras","subclasse":"Fluvial/Lacustre"},
+
+  {"nome":"Refúgio Ecológico (Montana)","hex":"#FFA7FF","tipo":"Vegetação","classe":"Refúgio Ecológico","subclasse":"Montana"},
+  {"nome":"Refúgio Ecológico (Alto-Montana)","hex":"#FFA7D6","tipo":"Vegetação","classe":"Refúgio Ecológico","subclasse":"Alto-Montana"},
+
+  {"nome":"Área de Tensão Ecológica","hex":"#EAEAEA","tipo":"Vegetação","classe":"Tensão Ecológica","subclasse":null}
+]
