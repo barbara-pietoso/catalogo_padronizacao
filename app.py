@@ -1,10 +1,14 @@
 import streamlit as st
 import json
+import os
 
 st.set_page_config(layout="wide")
 
-# carregar dados
-with open("dados.json", encoding="utf-8") as f:
+# carregar dados (forma segura pro Streamlit Cloud)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+caminho = os.path.join(BASE_DIR, "dados.json")
+
+with open(caminho, encoding="utf-8") as f:
     dados = json.load(f)
 
 st.title("🌎 Catálogo de Solos e Vegetação")
@@ -20,8 +24,15 @@ with col2:
     tipo = st.selectbox("Tipo", ["Todos"] + tipos)
 
 with col3:
-    classes = sorted(set(d["classe"] for d in dados))
-    classe = st.selectbox("Classe", ["Todas"] + classes)
+    # classes dependentes do tipo
+    if tipo == "Todos":
+        classes_filtradas = sorted(set(d["classe"] for d in dados))
+    else:
+        classes_filtradas = sorted(set(
+            d["classe"] for d in dados if d["tipo"] == tipo
+        ))
+
+    classe = st.selectbox("Classe", ["Todas"] + classes_filtradas)
 
 # filtro aplicado
 filtrados = []
