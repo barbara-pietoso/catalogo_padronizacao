@@ -11,7 +11,7 @@ caminho = os.path.join(BASE_DIR, "dados.json")
 with open(caminho, encoding="utf-8") as f:
     dados = json.load(f)
 
-st.title("🌎 Catálogo de Solos e Vegetação")
+st.title("🌎 Catálogo de Cores - Padrão para Solos e Vegetação")
 
 # filtros
 col1, col2, col3 = st.columns(3)
