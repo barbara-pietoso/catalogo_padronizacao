@@ -2,7 +2,11 @@ import streamlit as st
 import json
 import os
 
-st.set_page_config(layout="wide")
+st.set_page_config(
+    page_title="Catálogo de Cores",
+    page_icon="🌎",
+    layout="wide"
+)
 
 # carregar dados
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
